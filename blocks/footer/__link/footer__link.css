@@ -6,7 +6,7 @@
     line-height: 18px;
     color: #FFFFFF;
     text-decoration: none;
-    flex-basis: 186px;
+    /*flex-basis: 186px;*/
 }
 @media screen and (max-width: 1024px) { /*1024*/
     .footer__link{
