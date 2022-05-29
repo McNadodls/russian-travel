@@ -3,11 +3,9 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
-    /* or 29px */
-
-
     color: #FFFFFF;
-    margin: 0 0 27px; /*В 4 из 8 было 26px, подумал что ошибка*/
+    margin: 0 0 27px;
+    /*В 4 из 8 было 26px, подумал что ошибка*/
     max-width: 484px;
 }
 
