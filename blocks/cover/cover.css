@@ -1,6 +1,6 @@
 .cover{
     max-width: 100%;
-    min-height: 740px; 
+    min-height: 740px;
     background-image: url(../../images/cover/dmitrii-vaccinium.png);
     background-size: cover;
     display: flex;
