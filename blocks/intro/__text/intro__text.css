@@ -1,0 +1,30 @@
+.intro__text{
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+    /* or 26px */ 
+
+    color: #FFFFFF;
+    max-width: 690px;
+    margin: 40px 0 33px;
+}
+@media screen and (max-width: 1024px) { /*1024*/
+    .intro__text{
+        
+    }
+}
+@media screen and (max-width: 768px) { /*768*/
+    .intro__text{
+        width: 720px;
+    }
+}
+@media screen and (max-width: 425px) { /*320*/
+    .intro__text{
+        font-size: 16px;
+        line-height: 163%;
+        max-width: 288px;
+        margin-bottom: 34px; /*тут зазница 1px не знаю ошибка ли это*/
+    }
+} 

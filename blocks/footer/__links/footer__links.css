@@ -1,0 +1,21 @@
+.footer__links {
+    display: flex;
+    gap: 18px;
+}
+@media screen and (max-width: 1024px) { /*1024*/
+    .footer__links{
+        
+    }
+}
+@media screen and (max-width: 768px) { /*768*/
+    .footer__links{
+        
+    } 
+}
+
+@media screen and (max-width: 425px) { /*320*/
+    .footer__links{ 
+        gap: 32px;
+        flex-wrap: wrap;
+    }
+}

@@ -1,0 +1,17 @@
+.space-block{
+    margin-bottom: 92px;
+}
+@media screen and (max-width: 1024px) { /*1024*/
+    .space-block{
+    }
+}
+@media screen and (max-width: 768px) { /*768*/
+    .space-block{
+        margin-bottom: 88px;
+    }
+}
+@media screen and (max-width: 425px) { /*320*/
+    .space-block{
+        margin-bottom: 64px;
+    }
+}
