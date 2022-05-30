@@ -4,6 +4,7 @@
     background-image: url(../../images/cover/dmitrii-vaccinium.png);
     background-size: cover;
     display: flex;
+    align-content: center;
     
    
 }

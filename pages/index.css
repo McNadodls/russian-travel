@@ -2,7 +2,7 @@
 @import url(../fonts/inter/inter.css); /*Текст*/ /*font-family: 'Inter', 'Arial', sans-serif;*/
 @import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/space-block/space-block.css);
+@import url(../blocks/page/__space-block/page__space-block.css);
 @import url(../blocks/transparency/transparency.css);
 /*Хедер*/
 @import url(../blocks/header/header.css);

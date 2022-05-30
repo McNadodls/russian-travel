@@ -1,0 +1,17 @@
+.page__space-block{
+    margin-bottom: 92px;
+}
+@media screen and (max-width: 1024px) { /*1024*/
+    .page__space-block{
+    }
+}
+@media screen and (max-width: 768px) { /*768*/
+    .page__space-block{
+        margin-bottom: 88px;
+    }
+}
+@media screen and (max-width: 425px) { /*320*/
+    .page__space-block{
+        margin-bottom: 64px;
+    }
+}

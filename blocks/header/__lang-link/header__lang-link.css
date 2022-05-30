@@ -7,3 +7,19 @@
     color: white;
     text-decoration: none;
 }
+@media screen and (max-width: 1024px) { /*1024*/
+    .header__lang-link{
+        
+    }
+}
+@media screen and (max-width: 768px) { /*768*/
+    .header__lang-link{
+         
+    }
+}
+@media screen and (max-width: 425px) { /*320*/
+    .header__lang-link{
+        font-size: 18px;
+        line-height: 20px;        
+    }
+}
