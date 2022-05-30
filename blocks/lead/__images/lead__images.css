@@ -1,18 +1,17 @@
-.lead__images{
-    max-width: 100%;
+.lead__images {
+  box-sizing: border-box;
+  margin: 0;
+  width: 100%;
 }
-@media screen and (max-width: 1024px) { /*1024*/
-    .lead__images{
-        max-width: 928px;
-    }
+
+@media screen and (min-width: 1024px) {
+  .lead__images {
+    width: calc(1024px - 96px);
+  }
 }
-@media screen and (max-width: 768px) { /*768*/
-    .lead__images{
-        max-width: 100%;
-    }
-}
-@media screen and (max-width: 425px) { /*320*/
-    .lead__images{
-        
-    }
+
+@media screen and (min-width: 1280px) {
+  .lead__images {
+    width: calc(1280px - 296px);
+  }
 }

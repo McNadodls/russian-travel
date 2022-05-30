@@ -1,18 +1,23 @@
-.intro{
-    margin-left: 100px;
+.intro {
+  max-width: 984px;
+  margin: 0 16px;
 }
-@media screen and (max-width: 1024px) { /*1024*/
-    .intro{
-        margin-left: 48px;
-    }
+
+@media screen and (min-width: 768px) {
+  .intro {
+    margin: 0 24px;
+  }
 }
-@media screen and (max-width: 768px) { /*768*/
-    .intro{
-        margin-left: 24px;
-    }
+
+@media screen and (min-width: 1024px) {
+  .intro {
+    margin: 0;
+    margin-left: 48px;
+  }
 }
-@media screen and (max-width: 425px) { /*320*/
-    .intro{
-        margin-left: 16px;
-    }
+
+@media screen and (min-width: 1280px) {
+  .intro {
+    margin: 0 auto;
+  }
 }
