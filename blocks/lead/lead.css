@@ -1,8 +1,5 @@
-.lead {
-  box-sizing: border-box;
-  max-width: 1184px;
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.lead{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
 }
