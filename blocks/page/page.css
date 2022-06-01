@@ -1,0 +1,19 @@
+.page{
+    max-width: 1184px;
+    margin: 0 auto;
+}
+@media screen and (max-width: 1024px) { /*1024*/
+    .page{
+        max-width: 1024px;
+    }
+}
+@media screen and (max-width: 768px) { /*768*/
+    .page{
+    max-width: 768px;
+    }
+}
+@media screen and (max-width: 425px) { /*320*/
+    .page{
+    max-width: 320px;
+    }
+}

@@ -24,4 +24,4 @@
 
 **Ссылка на проект**
 
-https://mcnadodls.github.io/russian-travel/
+mcnadodls.github.io/russian-travel/
