@@ -22,7 +22,7 @@
         max-width: 720px;
     }
 }
-@media screen and (in-width: 1280px) { /*320*/
+@media screen and (min-width: 1280px) { /*320*/
     .lead__title{
     }
 }
