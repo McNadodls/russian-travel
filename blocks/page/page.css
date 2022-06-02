@@ -9,11 +9,11 @@
 }
 @media screen and (max-width: 768px) { /*768*/
     .page{
-    max-width: 768px;
+    max-width: 100%;
     }
 }
 @media screen and (max-width: 425px) { /*320*/
     .page{
-    max-width: 320px;
+        
     }
 }
