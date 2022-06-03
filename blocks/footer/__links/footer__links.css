@@ -16,7 +16,7 @@
     } 
 }
 
-@media screen and (max-width: 460px) { /*320*/
+@media screen and (max-width: 480px) { /*320*/
     .footer__links{ 
         grid-template-columns: minmax(min-content, max-content);
         grid-template-rows: repeat(5,  max-content);
