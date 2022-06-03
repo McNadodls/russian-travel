@@ -12,14 +12,14 @@
         
     }
 }
-@media screen and (max-width: 768px) { /*768*/
+@media screen and (max-width: 900px) { /*768*/ /*Из-за того что динамическую ширину первого столбика задает размер текста, он переполняет родительский элемет. Точку перелома было перенести, чтобы текст был меньше*/
     .place__title{
         font-size: 42px;
         line-height: 46px;
     }
 }
 
-@media screen and (max-width: 425px) { /*320*/
+@media screen and (max-width: 550px) { /*320*/
     .place__title{ 
         font-size: 32px;
         line-height: 35px;
